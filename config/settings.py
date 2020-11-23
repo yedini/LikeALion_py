@@ -34,7 +34,7 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
-    'disqus',
+    #'disqus',
     'django.contrib.sites',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -137,7 +137,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 #로그인 성공했을 시 접속할 링크 구현
 LOGIN_REDIRECT_URL = '/'
 
-DISQUS_WEBSITE_SHORTNAME ="likelion-yejin"
+#DISQUS_WEBSITE_SHORTNAME ="likelion-yejin"
 SITE_ID = 1
 
 
