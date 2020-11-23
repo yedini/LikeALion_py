@@ -1,0 +1,11 @@
+*.pvc
+*~
+/.vscode
+__pycahce__
+db.sqlite3
+.DS_Store
+0. 초기
+1. 완성본
+제공 코드
+제공하는 코드 1116
+세션 자료
